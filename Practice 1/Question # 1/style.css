@@ -1,0 +1,9 @@
+h1{
+    color: black;
+    text-decoration: dotted underline;
+}
+
+#box{
+    color: blue;
+    font-size: 20px;
+}
