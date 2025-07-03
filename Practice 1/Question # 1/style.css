@@ -4,6 +4,7 @@ h1{
 }
 
 #box{
-    color: blue;
-    font-size: 20px;
+    color: white;
+    font-size: 25px;
+    background-color: blue;
 }
